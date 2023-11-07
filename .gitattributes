@@ -1,3 +1,5 @@
+Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/outputs/apk/debug/launcher-debug.apk filter=lfs diff=lfs merge=lfs -text
+Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/local_aar_for_lint/release/out.aar filter=lfs diff=lfs merge=lfs -text
 * !text !filter !merge !diff
 *.aar filter=lfs diff=lfs merge=lfs -text
 *.apk filter=lfs diff=lfs merge=lfs -text
