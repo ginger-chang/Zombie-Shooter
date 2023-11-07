@@ -1,0 +1,32 @@
+<libraries>
+  <library
+      name="/Users/gingerC/XR Decal/Lab1/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release"
+      jars="/Users/gingerC/XR Decal/Lab1/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/f16ee22a1f6880fb8333faa6ebd7d953/transformed/out/jars/classes.jar:/Users/gingerC/XR Decal/Lab1/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/f16ee22a1f6880fb8333faa6ebd7d953/transformed/out/jars/libs/unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="/Users/gingerC/XR Decal/Lab1/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/f16ee22a1f6880fb8333faa6ebd7d953/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:/Users/gingerC/XR Decal/Lab1/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar"
+      jars="/Users/gingerC/XR Decal/Lab1/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar"
+      resolved="__local_aars__:/Users/gingerC/XR Decal/Lab1/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified"/>
+  <library
+      name=":OVRPlugin:@aar"
+      jars="/Users/gingerC/.gradle/caches/transforms-3/73fc14940d732a79bf843009165548dd/transformed/OVRPlugin/jars/classes.jar"
+      resolved=":OVRPlugin:"
+      folder="/Users/gingerC/.gradle/caches/transforms-3/73fc14940d732a79bf843009165548dd/transformed/OVRPlugin"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>
